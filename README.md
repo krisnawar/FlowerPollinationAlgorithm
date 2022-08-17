@@ -14,3 +14,5 @@ uvus2 = [[68, 472], [85, 304], [205, 406], [204, 240], [274, 84]]
 uvus3 = [[66, 474], [83, 306], [203, 408], [202, 242], [272, 86]]
 uvus4 = [[64, 474], [81, 306], [201, 408], [200, 242], [270, 86]]
 ```
+
+At the end of the execution, the code will simply update the z_movement.csv file with z value changes based on the iteration. With this file, we can visualize the movement of the z value using Excel or any other apps.
